@@ -6,4 +6,7 @@
 - 📫 How to reach me: [GitHub - Sandrakimiring](https://github.com/Sandrakimiring), [LinkedIn - Sandra Kimiring](https://www.linkedin.com/in/sandra-kimiring-368694256/), [Twitter - @Sandrakimiring](https://x.com/Sandrakimiring)
 - 🌐 Check out my portfolio: [sandrakimiring.github.io](https://sandrakimiring.github.io/)
 - 😄 Pronouns: She/Her
-  
+#### My GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandrakimiring)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandrakimiring&show_icons=true&hide_title=true)  
+![Wakatime](https://wakatime.com/badge/user/Sandrakimiring.svg)
