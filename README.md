@@ -9,4 +9,6 @@
 #### My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandrakimiring)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandrakimiring&show_icons=true&hide_title=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sandrakimirin&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sandrakimiring&theme=radical)
+<img src="https://streak-stats.demolab.com/?user=Sandrakimiring&theme=radical" alt="GitHub Streak" />
+
