@@ -5,23 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sandrakimiring&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/sandrakimiring" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sandrakimiring?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://linkedin.com/in/sandra-kimiring" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@kimiringsandra" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://kaggle.com/sandrakimiring" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://sandrakimiring.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
