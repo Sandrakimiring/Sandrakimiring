@@ -82,14 +82,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building a Diabetes Prediction App with XGBoost & FastAPI](https://medium.com/@kimiringsandra/...)
-- [Getting Started with Pandas for Data Analysis](https://medium.com/@kimiringsandra/...)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 > 💬 *"Every dataset has a story. I love turning data into insight, and insight into action."*
 
