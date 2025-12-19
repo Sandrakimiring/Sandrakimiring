@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandra Kimiring</h1>
-<h3 align="center">Data Analyst | Data Scientist | Aspiring ML Engineer</h3>
+<h3 align="center">Data Scientist | ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandrakimiring&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
